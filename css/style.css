@@ -8,17 +8,17 @@
 
 
 /*-----------------------------------------------------------
-    1  General Styles
-    2  Typography
-    3  Buttons & Links 
-    4  Header
-    5  Intro
-    6  Services  
-    7  Portfolio
-    8  Video
-    9  Team
-    10 Footer
-    11 Responsive 
+    1  General Styles - 26
+    2  Typography - 124
+    3  Buttons & Links - 210
+    4  Header - 302
+    5  Intro - 385
+    6  Services - 398  
+    7  Portfolio - 504
+    8  Video - 584
+    9  Team - 607
+    10 Footer - 691
+    11 Responsive - 752
 -------------------------------------------------------------*/
 
 
@@ -302,7 +302,7 @@ li {
     4. Header
 -------------------------------------------------------------*/
 header {
-  background-image: url("../images/hero.png");
+  background-image: url("../images/headerback002.jpg");
   width: 100vw;
   height: 75vh;
   background-size: cover;
